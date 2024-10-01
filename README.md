@@ -32,6 +32,7 @@ The findings were compared with additional data on the geographical distribution
 The phylogenetic tree, constructed using the RAG2 gene and generated through FastTree after alignment with MAFFT, provides a clear representation of the evolutionary relationships between Latimeria menadoensis and 27 other selected species, including various fish, amphibians, reptiles, and mammals. On the tree, latimeria is grouped with such species as Protopterus sp. from the class of lobe-finned lynxes, as well as sharks: Torpedo californica, Chiloscyllium punctatum and Triakis sp.
 
 ![The position of Latimeria menadoensis on the "tree of life"](./pictures/output%202.png)
+*The position of Latimeria menadoensis on the "tree of life"*
 
 
 Despite its status as a "living fossil" with traits that resemble early tetrapods, such as lobed fins, Latimeria menadoensis is shown to be evolutionarily closer to fish than to tetrapods. This is evident from its distinct branching away from amphibians, reptiles, and mammals, all of which are placed in separate, well-supported branches. The bootstrap values across the tree are high (many close to 1.0), indicating strong support for the inferred relationships. The branch connecting Latimeria to other fish species has particularly robust support, further confirming its closer relationship to modern fish rather than to tetrapods.
