@@ -34,8 +34,10 @@ The phylogenetic tree, constructed using the RAG2 gene and generated through Fas
 ![The position of Latimeria menadoensis on the "tree of life"](./pictures/output%202.png)
 *The position of Latimeria menadoensis on the "tree of life"*
 
-
 Despite its status as a "living fossil" with traits that resemble early tetrapods, such as lobed fins, Latimeria menadoensis is shown to be evolutionarily closer to fish than to tetrapods. This is evident from its distinct branching away from amphibians, reptiles, and mammals, all of which are placed in separate, well-supported branches. The bootstrap values across the tree are high (many close to 1.0), indicating strong support for the inferred relationships. The branch connecting Latimeria to other fish species has particularly robust support, further confirming its closer relationship to modern fish rather than to tetrapods.
+
+![Close relatives of Latimeria menadoensis and their MRCA](./pictures/output%203.png)
+*Close relatives of Latimeria menadoensis and their MRCA*
 
 ## Discussion
 These results offer important insights into the evolutionary placement of Latimeria menadoensis. Although often considered a transitional species due to its retention of primitive characteristics, the phylogenetic analysis using the RAG2 gene reveals that Latimeria is more closely related to fish species than to amphibians, reptiles, or mammals. This conclusion is supported by the topology of the tree and the high bootstrap values for key branches.
