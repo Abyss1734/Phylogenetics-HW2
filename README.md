@@ -31,6 +31,8 @@ The findings were compared with additional data on the geographical distribution
 
 The phylogenetic tree, constructed using the RAG2 gene and generated through FastTree after alignment with MAFFT, provides a clear representation of the evolutionary relationships between Latimeria menadoensis and 27 other selected species, including various fish, amphibians, reptiles, and mammals. On the tree, latimeria is grouped with such species as Protopterus sp. from the class of lobe-finned lynxes, as well as sharks: Torpedo californica, Chiloscyllium punctatum and Triakis sp.
 
+![The position of Latimeria menadoensis on the "tree of life"](./pictures/output 2.png)
+
 Despite its status as a "living fossil" with traits that resemble early tetrapods, such as lobed fins, Latimeria menadoensis is shown to be evolutionarily closer to fish than to tetrapods. This is evident from its distinct branching away from amphibians, reptiles, and mammals, all of which are placed in separate, well-supported branches. The bootstrap values across the tree are high (many close to 1.0), indicating strong support for the inferred relationships. The branch connecting Latimeria to other fish species has particularly robust support, further confirming its closer relationship to modern fish rather than to tetrapods.
 
 ## Discussion
@@ -42,14 +44,6 @@ The choice of the RAG2 gene for this phylogenetic analysis was based on its util
 In conclusion, the phylogenetic analysis of Latimeria menadoensis based on the RAG2 gene demonstrates that this species is evolutionarily closer to fish than to tetrapods. The findings challenge the perception that Latimeria's morphological similarities to tetrapods reflect a close evolutionary relationship. Instead, it retains a deep evolutionary connection with other lobe-finned fish.
 
 This study contributes to our understanding of the evolutionary history of Latimeria menadoensis and emphasizes the importance of using molecular data, alongside morphological characteristics, to accurately infer evolutionary relationships. Further studies incorporating additional genetic markers and ecological data would be valuable in providing a more comprehensive picture of the evolutionary forces shaping these lineages.
-
-
-
-
-
-
-
-
 
 ## Appendix
 | Identifier        | Species                                  | Common Name                     | Type       |
